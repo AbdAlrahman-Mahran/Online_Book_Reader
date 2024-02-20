@@ -1,13 +1,13 @@
 # Online_Book_Reader
-##Simple Book Reader.
-###Admin
+## Simple Book Reader.
+### Admin
 - Add Books.
 - Delete Books.
 - Update Books.
-###User
+### User
 - Make new reading sessions.
 - Access previous sessions.
-###JSON
+### JSON
 __Light CPP [JSON](json.hpp) Library__
 __3 files for database__
 - [Users.json](Users.json) 
