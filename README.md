@@ -1,4 +1,6 @@
 # Online_Book_Reader
+## Dependencies
+[MinGW](https://www.mingw-w64.org/)
 ## Simple Book Reader.
 ### Admin
 - Add Books.
